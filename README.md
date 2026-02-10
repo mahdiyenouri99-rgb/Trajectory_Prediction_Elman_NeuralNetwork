@@ -57,7 +57,7 @@ The notebook includes:
 
 **Example results:**
 Elman Neural Network results:
-- `images/result_1.png`  
+- `images/result_1.png`
 - `images/result_2.png`  
 
 ---
